@@ -5,7 +5,7 @@
 
 # 📌 O que é? 
 
-O jogo mata mosquito tem três níveis de dificuldade, o objetivo do jogo é acertar os mosquitos que irão aparecer na tela sem errar, você tem até 3 vidas.
+O jogo mata mosquito tem três níveis de dificuldade, o objetivo do jogo é acertar os mosquitos que irão aparecer na tela, você tem até 3 vidas.
 
 
 # 🛠 Tecnologias utilizadas 
